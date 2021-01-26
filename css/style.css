@@ -22,3 +22,8 @@
 	clear: both;
 	display: block;
 }
+.bigdiv-1 {
+	width: 100%;
+	background-color: #E6E6E6;
+	height: 520px;
+}
