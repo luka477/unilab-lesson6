@@ -2,9 +2,12 @@
 	float: left;
 	margin-right: 98px;
 	margin-left: 72px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 .navigation {
 	float: left;
+	margin-top: 35px;
 }
 .clear {
 	clear: both;
