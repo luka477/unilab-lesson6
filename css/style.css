@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,600;0,700;1,600&family=Roboto:ital,wght@0,300;1,300&display=swap');
 .logo-wraper {
 	float: left;
 	margin-right: 98px;
@@ -17,6 +18,7 @@
 	float: left;
 	margin-left: 31px;
 	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
 }
 .nav-ul::after {
 	content: "";
@@ -51,6 +53,7 @@
 	left: 128px;
 	font-size: 30px;
 	color: white;
+	font-family: 'IBM Plex Sans', sans-serif;
 }
 /*second heder*/
 .bigdiv-2 {
@@ -64,6 +67,7 @@
 	font-size: 24px;
 	padding-top: 30px;
 	padding-left: 99.5px;
+	font-family: 'Roboto', sans-serif;
 }
 .indiv1 {
 	width: 570px;
@@ -91,6 +95,7 @@
 	color: #3D58A6;
 	padding-top: 30.7px;
 	padding-left: 98.5px;
+	font-family: 'Roboto', sans-serif;
 }
 .smalldiv1 {
 	width: 270px;
@@ -110,6 +115,7 @@
 	color: #333333;
 	margin-top: 13.7px;
 	padding-left: 14px;
+	font-family: 'Roboto', sans-serif;
 }
 .smalldiv2 {
 	width: 270px;
@@ -124,6 +130,7 @@
 	color: #333333;
 	margin-top: 13.7px;
 	padding-left: 14px;
+	font-family: 'Roboto', sans-serif;
 }
 .smalldiv3 {
 	width: 270px;
@@ -138,6 +145,7 @@
 	color: #333333;
 	margin-top: 13.7px;
 	padding-left: 14px;
+	font-family: 'Roboto', sans-serif;
 }
 .smalldiv4 {
 	width: 270px;
@@ -152,12 +160,14 @@
 	color: #333333;
 	margin-top: 13.7px;
 	padding-left: 14px;
+	font-family: 'Roboto', sans-serif;
 }
 .div-text2 {
 	font-size: 24px;
 	color: black;
 	padding-top: 28px;
 	padding-left:98px;
+	font-family: 'Roboto', sans-serif;
 }
 .bigdiv-4 {
 	width: 100%;
@@ -182,6 +192,7 @@
 	color: #3D58A6;
 	padding-top: 11.1px;
 	padding-left: 20.8px;
+	font-family: 'Roboto', sans-serif;
 }
 .inindiv1::after {
 	content: "";
@@ -195,6 +206,7 @@
 	margin-left: 60.3px;
 	vertical-align: middle;
 	padding-top: 20px;
+	font-family: 'Roboto', sans-serif;
 }
 .inindiv1 {
 	padding-left: 38.8px;
@@ -206,6 +218,7 @@
 	float: right;
 	padding-right: 9px;
 	margin-top: 20px;
+	font-family: 'Roboto', sans-serif;
 }
 .lastdiv2 {
 	width: 570px;
@@ -220,6 +233,7 @@
 	color: #3D58A6;
 	padding-top: 11.1px;
 	padding-left: 20.8px;
+	font-family: 'Roboto', sans-serif;
 }
 .inindiv2::after {
 	content: "";
@@ -233,6 +247,7 @@
 	margin-left: 60.3px;
 	vertical-align: middle;
 	padding-top: 20px;
+	font-family: 'Roboto', sans-serif;
 }
 .inindiv2 {
 	padding-left: 63.3px;
@@ -244,6 +259,7 @@
 	float: right;
 	padding-right: 8px;
 	margin-top: 20px;
+	font-family: 'Roboto', sans-serif;
 }
 .lastp-1 {
 	font-size: 12px;
