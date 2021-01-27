@@ -220,3 +220,8 @@
 	padding-top: 11.1px;
 	padding-left: 20.8px;
 }
+.inindiv2::after {
+	content: "";
+	clear: both;
+	display: block;
+}
