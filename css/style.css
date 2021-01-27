@@ -169,6 +169,7 @@
 	background-color: #F2F2F2;
 	margin-left: 98px;
 	margin-top: 29.8px;
+	float: left;
 }
 .lastdiv1::after {
 	content: "";
@@ -204,4 +205,12 @@
 	float: right;
 	padding-right: 9px;
 	margin-top: 20px;
+}
+.lastdiv2 {
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	margin-left: 29px;
+	margin-top: 29.8px;
+	float: left;
 }
