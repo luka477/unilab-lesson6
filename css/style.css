@@ -96,6 +96,8 @@
 	height: 270px;
 	background-color: #E6E6E6;
 	float: left;
+	margin-left: 98px;
+	margin-top: 27.5px;
 }
 .bigdiv-3::after {
 	content: "";
@@ -114,6 +116,7 @@
 	background-color: #E6E6E6;
 	float: left;
 	margin-left: 30px;
+	margin-top: 27.5px;
 }
 .MARKETING {
 	font-size: 22px;
@@ -127,6 +130,7 @@
 	background-color: #E6E6E6;
 	float: left;
 	margin-left: 30px;
+	margin-top: 27.5px;
 }
 .CODING {
 	font-size: 22px;
@@ -140,6 +144,7 @@
 	background-color: #E6E6E6;
 	float: left;
 	margin-left: 30px;
+	margin-top: 27.5px;
 }
 .INTERFACE {
 	font-size: 22px;
