@@ -37,3 +37,15 @@
 	left: 0;
 	width: 100%;
 }
+.image-wraper {
+	position: relative;
+}
+.text-image1 {
+	position: absolute;
+	width: 339px;
+	height: 147px;
+	top: 291.2px;
+	left: 128px;
+	font-size: 30px;
+	color: white;
+}
