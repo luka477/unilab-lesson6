@@ -167,6 +167,8 @@
 	width: 570px;
 	height: 225px;
 	background-color: #F2F2F2;
+	margin-left: 98px;
+	margin-top: 29.8px;
 }
 .lastdiv1::after {
 	content: "";
