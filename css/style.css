@@ -91,3 +91,14 @@
 	padding-top: 30.7px;
 	padding-left: 98.5px;
 }
+.smalldiv1 {
+	width: 270px;
+	height: 270px;
+	background-color: #E6E6E6;
+	float: left;
+}
+.bigdiv-3::after {
+	content: "";
+	clear: both;
+	display: block;
+}
