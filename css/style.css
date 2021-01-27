@@ -179,3 +179,8 @@
 	padding-top: 11.1px;
 	padding-left: 20.8px;
 }
+.inindiv1::after {
+	content: "";
+	clear: both;
+	display: block;
+}
