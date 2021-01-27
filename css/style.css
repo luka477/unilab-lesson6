@@ -113,6 +113,7 @@
 	height: 270px;
 	background-color: #E6E6E6;
 	float: left;
+	margin-left: 30px;
 }
 .MARKETING {
 	font-size: 22px;
@@ -125,6 +126,7 @@
 	height: 270px;
 	background-color: #E6E6E6;
 	float: left;
+	margin-left: 30px;
 }
 .CODING {
 	font-size: 22px;
@@ -137,6 +139,7 @@
 	height: 270px;
 	background-color: #E6E6E6;
 	float: left;
+	margin-left: 30px;
 }
 .INTERFACE {
 	font-size: 22px;
